@@ -33,4 +33,22 @@ Social Media Integration
 Fully Mobile Responsive
 
 
+# 🎨 Design Style
+Clean & modern layout
+
+Earthy, warm tones matching the property
+
+Photo-centric design with soft typography
+
+
+# ⚙️ Technical Notes
+SEO-optimized and fast-loading
+
+Fully responsive on desktop, tablet, and mobile
+
+Support for domain & hosting setup (optional)
+
+
+
+
 
