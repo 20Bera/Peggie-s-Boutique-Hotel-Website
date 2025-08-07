@@ -49,6 +49,6 @@ Fully responsive on desktop, tablet, and mobile
 Support for domain & hosting setup (optional)
 
 
+Database
 
-
-
+https://github.com/20Bera/Peggie-s-Boutique-Hotel-Website/blob/main/Database/ERD.jpg
